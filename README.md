@@ -5,7 +5,7 @@ The project is focused on a data analysis titled "Will the Customer Accept the C
 
 
 ## Analysis
-The dataset was loaded into a Pandas DataFrame and EDA was conducted using .info() and .describe() to explore the data. I used matplotlib and seaborn for EDA — to explore correlations, distributions, and acceptance patterns
+The dataset was loaded into a Pandas DataFrame and EDA was conducted using .info() and .describe() to explore the data. I used matplotlib and seaborn for EDA to explore correlations, distributions, and acceptance patterns.
 
 
 
